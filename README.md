@@ -12,14 +12,14 @@
 
 **Aplicações e dados**
 
-![Dart]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white))
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Python]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
-![NodeJS]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
-![Markdown]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white))
-![ExpressJS]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge))
-![MongoDB]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white))
-![Windows]([https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 **Utilidades**
 
@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/KauanProg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanProg&theme=default&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanProg&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
