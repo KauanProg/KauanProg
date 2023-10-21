@@ -42,7 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanProg&theme=dracula&show_icons=true" />
 </a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?KauanProg=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![KauanProg](https://github-readme-stats.vercel.app/api/top-langs/?KauanProg=iuricode&layout=compact)](https://github.com/KauanProg/github-readme-stats)
 
 <h3>Onde me encontrar</h3>
 
