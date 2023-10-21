@@ -42,8 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanProg&theme=dracula&show_icons=true" />
 </a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-deyvid-415633209/)](https://www.linkedin.com/in/kauan-deyvid-415633209/)
