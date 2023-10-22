@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Kauan Deyvid</strong>
+## 👨‍💻 Olá, meu nome é <strong>Kauan Deyvid</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
