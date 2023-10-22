@@ -1,10 +1,22 @@
 ## 👨‍💻 Olá, meu nome é <strong>Kauan Deyvid</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Desenvolvedor full-stack cursando Engenharia de Software na Universidade Federal do Ceará - Campus Russas,
+entusiasta pelo mundo da tecnologia. Nos últimos tempos venho estudando sobre o Flutter e desenvolvendo um sistema
+web para a Pró-Reitoria de Assuntos Estudantis (PRAE) da Universidade Federal do Ceará. Busco uma oportunidade para
+trabalhar como desenvolvedor para aprimorar minhas habilidades e contribuir para o crescimento da empresa. 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Participo como desenvolvedor full-stack de um projeto da
+Universidade Federal do Ceará – Campus Russas relacionado a
+controle de acesso dos residentes das residências universitárias,
+com o objetivo de melhorar a segurança e a eficiência do processo
+de gestão de acesso às residências. Nesse projeto, consegui
+aprimorar minhas habilidades com o Flutter Web para a criação de
+interfaces intuitivas e agradáveis. Além disso, fui encarregado da
+implementação do backend do sistema, onde usei o Node JS para
+desenvolver uma API para realizar a integração com o banco de
+dados.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Estou sempre aberto para trocar ideias, discutir projetos empolgantes ou responder a quaisquer perguntas que você possa ter.
 
 ---
 
