@@ -56,7 +56,7 @@ dados.
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-deyvid-415633209/)](https://www.linkedin.com/in/kauan-deyvid-415633209/)
-[![Gmail Badge](https://img.shields.io/badge/-kauandeyvid3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauandeyvid3@gmail.com)](mailto:kauandeyvid3@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-deyvid/)](https://www.linkedin.com/in/kauan-deyvid)
+[![Gmail Badge](https://img.shields.io/badge/-kauandeyvid3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauandeyvid3@gmail.com)](mailto:kauandeyvid10@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/KauanProg?label=follow&style=social)](https://github.com/KauanProg)
 
