@@ -18,38 +18,32 @@ dados.
 
 ---
 
-<h3>Minhas Skills</h3>
-
-**Aplicações e dados**
+<h3>Linguagens e ferramentas</h3>
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-
-**Utilidades**
-
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**DevOps**
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
 
-<a href="https://github.com/KauanProg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanProg&theme=dracula&show_icons=true" />
+<a href="https://github.com/KauanProg" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanProg&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/KauanProg" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanProg&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 <h3>Onde me encontrar</h3>
